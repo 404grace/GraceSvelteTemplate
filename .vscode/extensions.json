@@ -1,0 +1,13 @@
+{
+	"recommendations": [
+		"formulahendry.auto-rename-tag",
+		"svelte.svelte-vscode",
+		"bradlc.vscode-tailwindcss",
+		"pmneo.tsimporter",
+		"vscode-icons-team.vscode-icons",
+		"yoavbls.pretty-ts-errors",
+		"esbenp.prettier-vscode",
+		"yzhang.markdown-all-in-one",
+		"cpylua.language-postcss"
+	]
+}
